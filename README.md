@@ -1,5 +1,7 @@
 # 💫 About Me:
-Keshav Saini — Full Stack Developer (MERN) | DSA in Java | Open to Opportunities<br>I'm a Computer Science engineering student at Raj Kumar Goel Institute of Technology, Ghaziabad, passionate about building full-stack web and mobile applications that are as visually compelling as they are functional. My primary stack is the MERN stack — MongoDB, Express.js, React.js, and Node.js — and I have hands-on experience with Next.js, React Native (Expo), Tailwind CSS, TypeScript, REST APIs, and payment integrations like Razorpay.<br>Some of my key projects include:
+Keshav Saini — Full Stack Developer (MERN) | DSA in Java | Open to Opportunities<br>I'm a Computer Science engineering student at Raj Kumar Goel Institute of Technology, Ghaziabad, passionate about building full-stack web and mobile applications that are as visually compelling as they are functional. My primary stack is the MERN stack — MongoDB, Express.js, React.js, and Node.js — and I have hands-on experience with Next.js, React Native (Expo), Tailwind CSS, TypeScript, REST APIs, and payment integrations like Razorpay.
+
+<br>Some of my key projects include:
 
 <br>सूत्रम् (Suutram) — A full-stack MERN password manager with CRUD functionality, password visibility toggle, clipboard copy, and real-time UI updates. Built with React.js, Node.js, Express.js, MongoDB, and Tailwind CSS.
 
