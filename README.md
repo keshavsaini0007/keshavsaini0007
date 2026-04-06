@@ -1,29 +1,93 @@
-<!-- HEADER -->
-<h1 align="center">💫 Keshav Saini</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN) | DSA in Java | Open to Opportunities</h3>
-
+<!-- ANIMATED HEADER -->
 <p align="center">
-  📍 Ghaziabad, India • 💼 Open for Internships & Full-Time Roles  
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Keshav+Saini;Full+Stack+Developer+(MERN);DSA+in+Java;Building+Cinematic+Web+Experiences" />
 </p>
 
 ---
 
-## 🌌 About Me
+<!-- TITLE -->
+<h1 align="center">Keshav Saini</h1>
+<h3 align="center">Full Stack Developer (MERN) • Open to Opportunities</h3>
 
-💡 I'm a Computer Science Engineering student passionate about crafting **full-stack web & mobile applications** that blend **performance with cinematic UI design**.
-
-⚡ My core stack revolves around the **MERN ecosystem**:
-- MongoDB • Express.js • React.js • Node.js  
-
-🧠 Also experienced with:
-- Next.js • React Native (Expo) • TypeScript  
-- Tailwind CSS • REST APIs • Razorpay Integration  
-
-🎯 I believe: *"Interfaces should feel like experiences, not just tools."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshavsaini0007&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://skillicons.dev/icons?i=react" height="22"/> About Me
+
+I'm a Computer Science Engineering student passionate about building **full-stack web & mobile applications** that combine performance with **cinematic dark UI design**.
+
+- MERN Stack Specialist  
+- Experience with Next.js, React Native (Expo), TypeScript  
+- REST APIs & Razorpay Integration  
+- Focused on placement-level projects & continuous growth  
+
+---
+
+## <img src="https://skillicons.dev/icons?i=ts" height="22"/> Featured Projects
+
+### 🔐 Suutram
+Secure MERN Password Manager  
+- CRUD operations  
+- Clipboard copy  
+- Real-time UI updates  
+
+---
+
+### ☕ GetMeAChai
+Creator Support Platform  
+- Razorpay integration  
+- NextAuth authentication  
+- Glassmorphism UI  
+
+---
+
+### 🏥 MediVault
+Smart Health Monitoring System  
+- QR-based records  
+- AI-powered insights  
+- Web + Mobile ecosystem  
+
+---
+
+## <img src="https://skillicons.dev/icons?i=java" height="22"/> Achievements
+
+- AIR 29 — Coding Ninjas Binary Codes  
+- Rank 6 — HackerRank Contest  
+- Rank 21 — GFG Quiz Arena  
+- 1st Prize — BrainQuest  
+
+---
+
+## <img src="https://skillicons.dev/icons?i=github" height="22"/> GitHub Analytics
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=keshavsaini0007&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## <img src="https://skillicons.dev/icons?i=github" height="22"/> Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavsaini0007&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## <img src="https://skillicons.dev/icons?i=git" height="22"/> Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/keshavsaini0007" />
+</p>
+
+---
+
+
+## <img src="https://skillicons.dev/icons?i=react" height="22"/> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,js,java,tailwind,aws,gcp,git,postman,c" />
@@ -31,107 +95,17 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 सूत्रम् (Suutram)
-> A secure MERN password manager
-
-✨ Features:
-- CRUD password storage  
-- Visibility toggle 👁️  
-- Clipboard copy 📋  
-- Real-time UI updates  
-
-🧰 Tech: React.js • Node.js • Express • MongoDB • Tailwind  
-
----
-
-### ☕ GetMeAChai
-> Creator support platform (Indian version of Buy Me a Coffee)
-
-✨ Features:
-- Razorpay payments 💳  
-- NextAuth authentication 🔐  
-- Dark glassmorphism UI 🌌  
-- Animated cinematic experience  
-
-🧰 Tech: Next.js • Tailwind • Razorpay • Auth  
-
----
-
-### 🏥 MediVault
-> Smart Health Monitoring & AI Analysis System
-
-✨ Features:
-- QR-based health records 📄  
-- Web + Mobile ecosystem 📱  
-- AI-powered health insights 🤖  
-- Doctor-Patient unified platform  
-
-🧰 Tech:
-- Next.js 14 (Web)  
-- React Native Expo (Mobile)  
-- Node.js • Express • MongoDB (Backend)  
-
-🏆 Submitted to **HackNovate 7.0**
-
----
-
-## 🏆 Achievements
-
-🥇 1st Prize — BrainQuest (CSSS, RKGIT)  
-🏅 AIR 29 — Coding Ninjas Binary Codes 3.0  
-🏅 Rank 6 — HackerRank DSA Contest  
-🏅 Rank 21 — GeeksForGeeks Quiz Arena  
-
-### 🚀 HackNovate Hackathon
-🔥 Secured **Top 5 Rank**  
-- Ranked among the **Top 10 teams**  
-- Built a high-impact full-stack solution under tight deadlines  
-- Demonstrated strong **problem-solving, innovation & teamwork**
-
----
-
-## 💼 Experience Simulations
-
-✔ J.P. Morgan — APIs, Kafka, Microservices  
-✔ Walmart USA — Advanced Software Engineering  
-✔ Deloitte Australia — Technology  
-✔ IBM (Coursera)  
-
----
-
-## 📊 GitHub Analytics
+## <img src="https://skillicons.dev/icons?i=linkedin" height="22"/> Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavsaini0007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=keshavsaini0007&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsaini0007&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/keshavsaini0007/keshavsaini0007/output/snake.svg" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/keshavsaini0007/" target="_blank">
+  <a href="https://www.linkedin.com/in/keshavsaini0007/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-🌙 I design in **dark mode first** — because great products should feel like a *movie experience*.
-
----
+<!-- FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
