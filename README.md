@@ -1,36 +1,131 @@
-# 💫 About Me:
-Keshav Saini — Full Stack Developer (MERN) | DSA in Java | Open to Opportunities<br>I'm a Computer Science engineering student at Raj Kumar Goel Institute of Technology, Ghaziabad, passionate about building full-stack web and mobile applications that are as visually compelling as they are functional. My primary stack is the MERN stack — MongoDB, Express.js, React.js, and Node.js — and I have hands-on experience with Next.js, React Native (Expo), Tailwind CSS, TypeScript, REST APIs, and payment integrations like Razorpay.
+<!-- HEADER -->
+<h1 align="center">💫 Keshav Saini</h1>
+<h3 align="center">🚀 Full Stack Developer (MERN) | DSA in Java | Open to Opportunities</h3>
 
-<br>Some of my key projects include:
-
-<br>सूत्रम् (Suutram) — A full-stack MERN password manager with CRUD functionality, password visibility toggle, clipboard copy, and real-time UI updates. Built with React.js, Node.js, Express.js, MongoDB, and Tailwind CSS.
-
-<br>GetMeAChai — A Next.js creator support and crowdfunding platform inspired by "Buy Me a Coffee," built for the Indian audience. Features Razorpay payment integration, NextAuth-based authentication, dark glassmorphism UI with animated backgrounds, and a seamless creator-supporter experience. A cinematic, dark luxury aesthetic runs throughout the entire platform.
-
-<br>MediVault — Smart Health Monitoring & AI Analysis System — A QR-based digital health records platform built with my team RUSK, designed to solve the fragmented health data problem in India. The system includes a Next.js 14 web frontend with a custom dark CSS design system, a React Native Expo mobile app for patients and doctors, and a Node.js/Express/MongoDB backend. MediVault also features an AI-powered health analysis layer that can process patient records and surface intelligent insights — making it not just a storage solution but a smart health monitoring system. Submitted to HackNovate 7.0.
-
-<br>On the competitive side, I've secured AIR 29 at Coding Ninjas Binary Codes 3.0 (150+ participants), Rank 6 at a HackerRank DSA contest (100+ participants), Rank 21 at GeeksForGeeks Geek Genesis Quiz Arena (400+ participants), and 1st Prize at the BrainQuest contest organized by CSSS at RKGIT. I've also completed industry job simulations from J.P. Morgan (APIs, Kafka, microservices), Walmart USA (Advanced Software Engineering), Deloitte Australia (Technology), and IBM via Coursera.
-
-<br>I gravitate toward dark, cinematic UI design — I believe interfaces should feel like experiences, not just tools. I'm currently focused on building original, placement-worthy projects and growing every single day through code, competition, and curiosity.
-
-<br>📍 Ghaziabad, Uttar Pradesh, India | 1,170+ LinkedIn followers | Open to internships and full-time opportunities.
-
-🏆 **Top 5 Finish – Hacknovate Hackathon**
-
-Secured an outstanding **5th rank among top participants** in the prestigious **Hacknovate Hackathon** and stand out in TOP 10 teams, demonstrating strong problem-solving skills, innovative thinking, and effective team collaboration. Built and presented a high-impact solution under tight deadlines, showcasing proficiency in full-stack development and real-world application design. This achievement reflects my ability to perform in competitive environments and deliver scalable, user-centric solutions.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@keshavsain31390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@keshavsain31390" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keshavsaini0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshavsaini0007" height="30" width="40" /></a>
+<p align="center">
+  📍 Ghaziabad, India • 💼 Open for Internships & Full-Time Roles  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavsaini0007&show_icons=true&locale=en&layout=compact" alt="keshavsaini0007" /></p>
+## 🌌 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavsaini0007&show_icons=true&locale=en" alt="keshavsaini0007" /></p>
+💡 I'm a Computer Science Engineering student passionate about crafting **full-stack web & mobile applications** that blend **performance with cinematic UI design**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavsaini0007&" alt="keshavsaini0007" /></p>
+⚡ My core stack revolves around the **MERN ecosystem**:
+- MongoDB • Express.js • React.js • Node.js  
+
+🧠 Also experienced with:
+- Next.js • React Native (Expo) • TypeScript  
+- Tailwind CSS • REST APIs • Razorpay Integration  
+
+🎯 I believe: *"Interfaces should feel like experiences, not just tools."*
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,js,java,tailwind,aws,gcp,git,postman,c" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 सूत्रम् (Suutram)
+> A secure MERN password manager
+
+✨ Features:
+- CRUD password storage  
+- Visibility toggle 👁️  
+- Clipboard copy 📋  
+- Real-time UI updates  
+
+🧰 Tech: React.js • Node.js • Express • MongoDB • Tailwind  
+
+---
+
+### ☕ GetMeAChai
+> Creator support platform (Indian version of Buy Me a Coffee)
+
+✨ Features:
+- Razorpay payments 💳  
+- NextAuth authentication 🔐  
+- Dark glassmorphism UI 🌌  
+- Animated cinematic experience  
+
+🧰 Tech: Next.js • Tailwind • Razorpay • Auth  
+
+---
+
+### 🏥 MediVault
+> Smart Health Monitoring & AI Analysis System
+
+✨ Features:
+- QR-based health records 📄  
+- Web + Mobile ecosystem 📱  
+- AI-powered health insights 🤖  
+- Doctor-Patient unified platform  
+
+🧰 Tech:
+- Next.js 14 (Web)  
+- React Native Expo (Mobile)  
+- Node.js • Express • MongoDB (Backend)  
+
+🏆 Submitted to **HackNovate 7.0**
+
+---
+
+## 🏆 Achievements
+
+🥇 1st Prize — BrainQuest (CSSS, RKGIT)  
+🏅 AIR 29 — Coding Ninjas Binary Codes 3.0  
+🏅 Rank 6 — HackerRank DSA Contest  
+🏅 Rank 21 — GeeksForGeeks Quiz Arena  
+
+### 🚀 HackNovate Hackathon
+🔥 Secured **Top 5 Rank**  
+- Ranked among the **Top 10 teams**  
+- Built a high-impact full-stack solution under tight deadlines  
+- Demonstrated strong **problem-solving, innovation & teamwork**
+
+---
+
+## 💼 Experience Simulations
+
+✔ J.P. Morgan — APIs, Kafka, Microservices  
+✔ Walmart USA — Advanced Software Engineering  
+✔ Deloitte Australia — Technology  
+✔ IBM (Coursera)  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavsaini0007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=keshavsaini0007&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsaini0007&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/keshavsaini0007/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+🌙 I design in **dark mode first** — because great products should feel like a *movie experience*.
+
+---
