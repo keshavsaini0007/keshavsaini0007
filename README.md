@@ -54,6 +54,7 @@ Smart Health Monitoring System
 
 ## <img src="https://skillicons.dev/icons?i=java" height="22"/> Achievements
 
+- Under Top 10 - HACKNOVATE 7.0 hackathon (ABESIT)
 - AIR 29 — Coding Ninjas Binary Codes  
 - Rank 6 — HackerRank Contest  
 - Rank 21 — GFG Quiz Arena  
