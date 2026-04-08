@@ -36,6 +36,14 @@ Secure MERN Password Manager
 
 ---
 
+### 🏥 MediVault
+Smart Health Monitoring System  
+- QR-based records  
+- AI-powered insights  
+- Web + Mobile ecosystem  
+
+---
+
 ### ☕ GetMeAChai
 Creator Support Platform  
 - Razorpay integration  
@@ -43,12 +51,8 @@ Creator Support Platform
 - Glassmorphism UI  
 
 ---
-
-### 🏥 MediVault
-Smart Health Monitoring System  
-- QR-based records  
-- AI-powered insights  
-- Web + Mobile ecosystem  
+### 🎯 Lakshyam
+- A task manager web app 
 
 ---
 
