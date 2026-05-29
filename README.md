@@ -26,7 +26,7 @@ I'm a Computer Science Engineering student passionate about building **full-stac
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=ts" height="22"/> Featured Projects
+## Featured Projects
 
 ### 🔐 Suutram
 Secure MERN Password Manager  
@@ -95,7 +95,7 @@ Creator Support Platform
 ## <img src="https://skillicons.dev/icons?i=react" height="22"/> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,js,java,tailwind,aws,gcp,git,postman,c" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,java,tailwind,aws,gcp,git,postman,c" />
 </p>
 
 ---
