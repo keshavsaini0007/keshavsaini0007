@@ -95,7 +95,7 @@ Creator Support Platform
 ## <img src="https://skillicons.dev/icons?i=react" height="22"/> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,java,tailwind,gcp,git,postman,c" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,java,tailwind,git,postman,c" />
 </p>
 
 ---
