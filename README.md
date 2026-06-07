@@ -51,8 +51,8 @@ Creator Support Platform
 - Glassmorphism UI  
 
 ---
-### 🎯 Lakshyam
-- A task manager web app 
+### 🎯 Sankalpa
+- A full stack task manager web app 
 
 ---
 
