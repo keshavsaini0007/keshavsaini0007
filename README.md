@@ -17,7 +17,7 @@
 
 ## <img src="https://skillicons.dev/icons?i=react" height="22"/> About Me
 
-I'm a Computer Science Engineering student passionate about building **full-stack web & mobile applications** that combine performance with **cinematic dark UI design**.
+I'm a Computer Science Engineering student passionate about building **full-stack web applications**.
 
 - MERN Stack Specialist  
 - Experience with Next.js, React Native (Expo), TypeScript  
