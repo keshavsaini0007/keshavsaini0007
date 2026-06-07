@@ -20,8 +20,8 @@
 I'm a Computer Science Engineering student passionate about building **full-stack web applications**.
 
 - MERN Stack Specialist  
-- Experience with Next.js, React Native (Expo), TypeScript  
-- REST APIs & Razorpay Integration  
+- Experience with Next.js, React , TypeScript  
+- REST APIs & Razorpay Integration & DB operations.
 - Focused on placement-level projects & continuous growth  
 
 ---
