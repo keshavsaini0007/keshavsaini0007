@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=react" height="22"/> About Me
+## About Me
 
 I'm a Computer Science Engineering student passionate about building **full-stack web applications**.
 
