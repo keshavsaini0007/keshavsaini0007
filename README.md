@@ -28,6 +28,15 @@ I'm a Computer Science Engineering student passionate about building **full-stac
 
 ## Featured Projects
 
+### 🏛️ Panchayat
+Digital Rural Grievance Management System
+ - Role-based complaint workflow
+ - Citizen verification before closure
+ - Interactive map & image uploads
+ - Analytics dashboard & audit logs 
+
+---
+
 ### 🔐 Suutram
 Secure MERN Password Manager  
 - CRUD operations  
