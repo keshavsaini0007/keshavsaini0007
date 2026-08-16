@@ -20,8 +20,8 @@
 I'm a Computer Science Engineering student passionate about building **full-stack web applications**.
 
 - MERN Stack Specialist  
-- Experience with Next.js, React , TypeScript  
-- REST APIs & Razorpay Integration & DB operations.
+- Experience with, React , TypeScript , Next.js
+- REST APIs & Razorpay Integration & DB & provider operations.
 - Focused on placement-level projects & continuous growth  
 
 ---
@@ -36,20 +36,18 @@ Digital Rural Grievance Management System
  - Analytics dashboard & audit logs 
 
 ---
-
-### 🔐 Suutram
-Secure MERN Password Manager  
-- CRUD operations  
-- Clipboard copy  
-- Real-time UI updates  
-
----
-
 ### 🏥 MediVault
 Smart Health Monitoring System  
 - QR-based records  
 - AI-powered insights  
 - Web + Mobile ecosystem  
+
+---
+### 🔐 Suutram
+Secure MERN Password Manager  
+- CRUD operations  
+- Clipboard copy  
+- Real-time UI updates  
 
 ---
 
@@ -67,7 +65,7 @@ Creator Support Platform
 
 ## <img src="https://skillicons.dev/icons?i=java" height="22"/> Achievements
 
-- Under Top 10 - HACKNOVATE 7.0 hackathon (ABESIT)
+- Under Top 10 - HACKNOVATE 7.0 hackathon (at ABESIT)
 - AIR 29 — Coding Ninjas Binary Codes  
 - Rank 6 — HackerRank Contest  
 - Rank 21 — GFG Quiz Arena  
