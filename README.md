@@ -40,7 +40,7 @@ Digital Rural Grievance Management System
 Smart Health Monitoring System  
 - QR-based records  
 - AI-powered insights  
-- Web + Mobile ecosystem  
+- Mobile ecosystem  
 
 ---
 ### 🔐 Suutram
