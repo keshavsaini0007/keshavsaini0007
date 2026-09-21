@@ -125,6 +125,13 @@ Creator Support Platform
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://www.instagram.com/keshavsaini.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
+
 ---
 
 <!-- FOOTER ANIMATION -->
