@@ -29,7 +29,7 @@ I'm a Computer Science Engineering student passionate about building **full-stac
 ## Featured Projects
 
 ### 🔥 AgniStrot — AI-Based Coal Mine Governance & Compliance Platform
-## MERN Stack | AI/Rule-Based Analytics | GIS | Offline-First Mobile App
+## MERN Stack | AI/Rule-Based Analytics | GIS | Web and Offline-First Mobile App
 
  - Developed a centralized platform for coal mine inspections, incident management, compliance tracking, corrective actions, and safety monitoring, replacing fragmented spreadsheets and paper-based workflows.
  - Built role-based dashboards providing management with real-time visibility into mine conditions, compliance status, pending actions, incidents, and inspection activities.
