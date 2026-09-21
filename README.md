@@ -123,10 +123,6 @@ Creator Support Platform
   <a href="https://www.linkedin.com/in/keshavsaini0007/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-</p>
-
-
-<p align="center">
   <a href="https://www.instagram.com/keshavsaini.dev">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
