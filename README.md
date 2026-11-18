@@ -7,7 +7,7 @@
 
 <!-- TITLES   -->
 <h1 align="center">Keshav Saini</h1>
-<h3 align="center">Full Stack Developer (MERN) • Open to Opportunities</h3>
+<h3 align="center">Full Stack Developer (MERN) • Currently working at SellBuyPlay as an intern.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keshavsaini0007&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -28,7 +28,7 @@ I'm a Computer Science Engineering student passionate about building **full-stac
 
 ## Featured Projects
 
-### 🔥 AgniStrot — AI-Based Coal Mine Governance & Compliance Platform
+### AgniStrot — AI-Based Coal Mine Governance & Compliance Platform
 ## MERN Stack | AI/Rule-Based Analytics | GIS | Web and Offline-First Mobile App
 
  - Developed a centralized platform for coal mine inspections, incident management, compliance tracking, corrective actions, and safety monitoring, replacing fragmented spreadsheets and paper-based workflows.
