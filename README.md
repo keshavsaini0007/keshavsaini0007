@@ -38,7 +38,15 @@ I'm a Computer Science Engineering student passionate about building **full-stac
  - Added GIS-based mine/site visualization and configurable escalation workflows to improve issue tracking, ownership, and accountability.
  - Designed the system to maintain traceable audit records, enabling organizations to monitor responsibilities, corrective actions, compliance deadlines, and historical safety patterns from a single platform.
 
-### 🏛️ Panchayat
+### MediVault
+Smart Health Monitoring System  
+- QR-based records  
+- AI-powered insights  
+- Mobile ecosystem  
+
+---
+
+### Panchayat
 Digital Rural Grievance Management System
  - Role-based complaint workflow
  - Citizen verification before closure
@@ -46,13 +54,7 @@ Digital Rural Grievance Management System
  - Analytics dashboard & audit logs 
 
 ---
-### 🏥 MediVault
-Smart Health Monitoring System  
-- QR-based records  
-- AI-powered insights  
-- Mobile ecosystem  
 
----
 ### 🔐 Suutram
 Secure MERN Password Manager  
 - CRUD operations  
