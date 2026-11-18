@@ -7,7 +7,9 @@
 
 <!-- TITLES   -->
 <h1 align="center">Keshav Saini</h1>
-<h3 align="center">Full Stack Developer (MERN) • Currently working at SellBuyPlay as an intern.</h3>
+<h3 align="center" > • Full Stack Developer (MERN).</h3>
+<h3 align="center" >• Currently working at SellBuyPlay as an intern.</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keshavsaini0007&label=Profile%20Views&color=0e75b6&style=flat" />
